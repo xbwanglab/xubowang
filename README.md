@@ -1,7 +1,7 @@
 
 ## Biography
 
-Xubo Wang is currently a postdoctoral researcher in Zhejiang Lab. He got his PhD in September 2018 under the supervision of Prof Xuemin Lin, A/Prof. Wenjie Zhang and Dr. Lu Qin from the School of Computer Science and Engineering, University of New South Wales (UNSW), Australia. He got his M.S. and B.S. from Xiamen University, China in July 2014 and July 2011.  
+Xubo Wang is currently a postdoctoral researcher in Zhejiang Lab. He got his PhD in September 2018 under the supervision of Prof Xuemin Lin, Prof. Wenjie Zhang and A/Prof.. Lu Qin from UNSW Sydney. He got his M.S. and B.S. from Xiamen University, China in July 2014 and July 2011.  
 
 
 ## Research Interests
